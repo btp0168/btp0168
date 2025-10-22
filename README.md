@@ -7,3 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
+
+<div align="center">
+  <img align="center" class="img" src="https://komarev.com/ghpvc/?username=btp0168&color=brightgreen&label=Profile+Visits" />
+</div>
