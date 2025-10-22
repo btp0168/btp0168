@@ -19,3 +19,5 @@
 </div>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=btp0168&theme=radical&hide_border=true" alt="btp0168" width="420"/>
+
+<img alt="Profile Stats" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=btp0168&theme=tokyonight" />
