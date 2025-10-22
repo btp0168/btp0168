@@ -11,3 +11,5 @@
 <div align="center">
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=btp0168&color=brightgreen&label=Profile+Visits" />
 </div>
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=btp0168&theme=radical&hide_border=true" alt="btp0168" width="420"/>
