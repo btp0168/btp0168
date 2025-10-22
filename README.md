@@ -8,6 +8,12 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 
+
+![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
+
 <div align="center">
   <img align="center" class="img" src="https://komarev.com/ghpvc/?username=btp0168&color=brightgreen&label=Profile+Visits" />
 </div>
